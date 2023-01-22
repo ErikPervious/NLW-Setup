@@ -47,5 +47,3 @@ export function Habit() {
     </View>
   )
 }
-
-//continuar em 1:27:24 aula 03
